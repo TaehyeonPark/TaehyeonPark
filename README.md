@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm TaehyeonPark.
+
+#### 2020 - Incheon Daegun Highschool.
+#### 2023 - KAIST.
+
+🌱 I’m currently learning ...
 
 <!--
 **TaehyeonPark/TaehyeonPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
