@@ -1,9 +1,6 @@
 ### Hi there 👋, I'm TaehyeonPark.
 
-#### 2020 - Incheon Daegun Highschool.
-#### 2023 - KAIST.
-
-🌱 I’m interested in Digital image processing, Frontend-Backend and AI.
+🌱 I’m interested in Digital image processing, Backend-Infra and AI.
 
 <!--
 **TaehyeonPark/TaehyeonPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
