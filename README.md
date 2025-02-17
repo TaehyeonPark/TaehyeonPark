@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm TaehyeonPark.
 
-🌱 I’m interested in Digital image processing, Backend-Infra and AI.
+🌱 I’m interested in Data Science, AI, Network and Infra.
 
 <!--
 **TaehyeonPark/TaehyeonPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
